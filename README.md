@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ***Android/Kotlin/Krot/Java Spring*** projects
-- 🌱 I'm interested in ***Qt, C++, Golang/Java/Kotlin development, Game development, Machine learning***
+- 🔭 I’m currently working on ***Android/Kotlin/Flutter/Golang*** projects
+- 🌱 I'm interested in ***Flutter, Golang/Java/Kotlin development, Qt, C++, Game development, Machine learning and Cloud infrastructure development***
 - 📫 How to reach me: `artem.ezv@gmail.com`
 
 <!--
