@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ***Android/Kotlin*** and sometimes on ***Golang/C++*** projects
+- 🔭 I’m currently working on ***Android/Ktor*** and sometimes on ***Golang/C++*** projects
 - 🌱 I'm interested in ***Golang/C++/Kotlin development, Android development, Game development and Cloud infrastructure development***
 - 📫 How to reach me: `artem.ezv@gmail.com`
 
