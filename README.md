@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ***Android/Ktor*** and sometimes on ***Golang/C++*** projects
-- 🌱 I'm interested in ***Golang/C++/Kotlin development, Android development, Game development and Cloud infrastructure development***
-- 📫 How to reach me: `artem.ezv@gmail.com`
+- 🔭 I’m currently working on ***Native mobile*** and sometimes on ***.NET/Golang backend*** projects
+- 🌱 I'm interested in ***Mobile (Android/iOS native, Flutter), .NET/Golang backend, React and Cloud infrastructure development***
+- 📫 How to reach me: `artem.ezv@outlook.com`
 
 <!--
 **aezvenkov/aezvenkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
