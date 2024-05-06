@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ***Native mobile*** and sometimes on ***.NET/Go*** projects
-- 🌱 I'm interested in ***Mobile (Android/iOS, React Native, Flutter), .NET/Go, React and Cloud infrastructure development***
+- 🔭 I’m currently working on ***Native mobile (Android/iOS)*** and sometimes on ***.NET*** projects
+- 🌱 I'm interested in ***Mobile (Android/iOS, React Native, Flutter), .NET/Go, Web and Cloud infrastructure development***
 - 📫 How to reach me: `artem.ezv@outlook.com`
 
 <!--
