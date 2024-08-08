@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ***Native mobile (Android/iOS), IoT*** and sometimes on ***.NET/Go backend*** projects
-- 🌱 I'm interested in ***Mobile (Android/iOS, Flutter), IoT, .NET/Go, ML and Cloud infrastructure development***
+- 🔭 I’m currently working on ***Native mobile (Android/iOS), IoT*** and sometimes on ***Kotlin/C++/Go backend*** projects
+- 🌱 I'm interested in ***Mobile (Android/iOS, Flutter), IoT, C++/Go, ML and Cloud infrastructure development***
 - 📫 How to reach me: `artem.ezv@outlook.com`
 
 <!--
